@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="idSukitam" group-title="CANAIS DE ESPORTE" tvg-name="COMBATE" tvg-logo="https://imgur.com/mYkXWsu.png",COMBATE
+http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/222
+
+#EXTM3U
+#EXTINF:-1 tvg-id="idSukitam" group-title="FILMES" 
+tvg-name="WARNER CHANNEL HD"
+tvg-logo="https://i.imgur.com/M6YFOLU.png",WARNER CHANNEL
+http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/93
